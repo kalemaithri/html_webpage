@@ -1,0 +1,79 @@
+<html>
+<center>
+<body background="web1 capture.jpg">
+<head>
+<title>title</title>
+</head>
+<h1>A simple sample <del>dynamic</del> <u> static</u> web page</h1>
+<img src="wb3.png" width=200 height=200>
+<figcaption>Figure caption</figcaption>
+<h4>By Rajkumar</h4>
+<h2><u>Demonstrating a few HTML feautures</u></h2>
+</center>
+
+<hr>
+<left>
+<p style="font-family:courier;"><b>HTML is really a very simple language</b>. It consists of ordinary
+text, with commands that are
+enclosed by "&lt;" and "&gt;" characters, or between an "&" and a ";". You don't really need to
+knoe much that HTML to create a page, because you can copy bits of HTML from other pages that do
+what you want, then change the text! This page shows on the left as it appears in your
+browser, and the coressponding HTML code appears on the right. The HTML commands are linked
+to explanations of what they do.
+</p>
+</left>
+<h3>Line breaks</h3>
+<p style="font-family:times new roman">HTML doesn't normally use line breaks for ordinary text.A
+white space of any size is treated as a single space .The code type of format can also be used in html for
+example
+</p>
+<font size="1" color="red">
+<code>
+#include&it;iostream.h&gt;<br>
+void main()<br>
+{<br>
+cout<<"This is a simple programm";<br>
+}<br>
+</code>
+</font>
+<left>
+<p>
+
+If you want to put multiple spaces,then you can use non breaking space entity by multiple times.For ex,I
+would like to use 3 more blank spaces &nbsp;&nbsp; here.If you want put a line break at a particular
+place,you can use the "&lt;"br"&gt;" command ,or,for a paragraph break,the "&lt;"p"&gt;"command
+,which will insert a blank line.You can also use some extended text formating features such as
+superscript and mark features like this
+</p>
+<p>
+<font size="1" color="black">
+1<sup>st</sup>,2<sub>nd</sub><mark> mark</mark> and<em><i> emphasized format features.
+</p>
+</font>
+<font size="3" color="red">
+<MARQUEE DIRECTION=RIGHT><h4>Starting and Stopping Commands</h4></font></MARQUEE>
+</font>
+</left>
+<font size="2" color="black">
+<p style="font-family:calibiri" ><pre> Most HTML commands come in pairs: for example
+,"&lt"h4"&gt" marks the beginning of a size 4 heading,
+and "&lt;"/H4"&gt;" marks the end of it. &nbsp; The closing command is always the same as the
+opening command, except for the addition of </pre></p>
+<h2 align=RIGHT>This is a size "3" heading</h2>
+<center>
+<h5>copyright &copy; 2016,by <i><u><font color="blue"> Rajkumar</font></u></i>
+</h5>
+<p>
+If you would like to link or bookmark to this page,the URL is:<br>
+<a href="http://www.javadb.com/category/java-se/">http://www.javadb.com/category/java-se/</a>
+
+</p>
+<progress></progress>
+</center>
+<video width="300" height="240" controls>
+<source src="v.mp4">
+</video>
+<p>
+(a+b)<sup>2</sup>=a<sup>2</sup>+b<sup>2</sup>+2ab</p>
+<MARQUEE DIRECTION=LEFT>Hi There.</MARQUEE>
+</html>
